@@ -1,2 +1,2 @@
-# Hi, I'm Crazy Cat!
+# account moved to: crazy_cat
 ###### thats it bye

@@ -3,6 +3,16 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crazycatdev&show_icons=true&locale=en" alt="crazycatdev" /></p>
 
+- 🔭 I’m currently working on **a secure authentication system.**
+
+- 🌱 I’m currently learning **the Rust programming language**
+
+- 👯 I’m looking to collaborate on **node.js projects.**
+
+- 📝 I regularly write articles on [forum.wearedevs.net](forum.wearedevs.net)
+
+- ⚡ Fun fact **I like playing roblox.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

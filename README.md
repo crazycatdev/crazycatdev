@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **node.js projects.**
 
-- 👷‍♂️ I'm currently working at [Lumen Technologies](github.com/Lumen-Technologies-LLC)
+- 👷‍♂️ I'm currently working at [Lumen Technologies](https://github.com/Lumen-Technologies-LLC)
 
-- 📝 I regularly write articles on [forum.wearedevs.net](forum.wearedevs.net)
+- 📝 I regularly write articles on [forum.wearedevs.net](https://forum.wearedevs.net)
 
 - ⚡ Fun fact **I like playing roblox.**
 

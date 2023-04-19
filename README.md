@@ -3,13 +3,16 @@
 
 - 🔭 I’m currently working on **a secure authentication system.**
 
-- 🌱 I’m currently learning **the Rust programming language**
+- 🌱 I’m currently learning **the Rust programming language.**
 
 - 👯 I’m looking to collaborate on **node.js projects.**
+
+- 👷‍♂️ I'm currently working at [Lumen Technologies LLC.](github.com/Lumen-Technologies-LLC)
 
 - 📝 I regularly write articles on [forum.wearedevs.net](forum.wearedevs.net)
 
 - ⚡ Fun fact **I like playing roblox.**
+
 
 
 <h3 align="left">Connect with me:</h3>

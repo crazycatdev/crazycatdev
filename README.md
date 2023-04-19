@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **node.js projects.**
 
-- 👷‍♂️ I'm currently working at [Lumen Technologies LLC.](github.com/Lumen-Technologies-LLC)
+- 👷‍♂️ I'm currently working at [Lumen Technologies](github.com/Lumen-Technologies-LLC)
 
 - 📝 I regularly write articles on [forum.wearedevs.net](forum.wearedevs.net)
 

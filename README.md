@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Crazy Cat</h1>
 <h3 align="center">A passionate frontend developer and cybersecurity enthusiast from Greece 🇬🇷.</h3>
 
-- 🔭 I’m currently working on **a secure authentication system.**
+- 🔭 I’m currently working on **a secure authentication system**.
 
-- 🌱 I’m currently learning **the Rust programming language.**
+- 🌱 I’m currently learning **the Rust programming language**.
 
-- 👯 I’m looking to collaborate on **node.js projects.**
+- 👯 I’m looking to collaborate on **node.js projects**.
 
-- 👷‍♂️ I'm currently working at [Lumen Technologies](https://github.com/Lumen-Technologies-LLC)
+- 👷‍♂️ I'm currently working at [Lumen Technologies](https://github.com/Lumen-Technologies-LLC/).
 
-- 📝 I regularly write articles on [forum.wearedevs.net](https://forum.wearedevs.net)
+- 📝 I regularly write articles on [forum.wearedevs.net](https://forum.wearedevs.net/).
 
-- ⚡ Fun fact **I like playing roblox.**
+- ⚡ Fun fact **I like playing roblox**.
 
 
 

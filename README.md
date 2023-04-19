@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Crazy Cat</h1>
 <h3 align="center">A passionate frontend developer and cybersecurity enthusiast from Greece 🇬🇷.</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crazycatdev&show_icons=true&locale=en" alt="crazycatdev" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crazycatdev&show_icons=true&locale=en&layout=compact" alt="crazycatdev" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=crazycatdev&show_icons=true&locale=en" alt="crazycatdev" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=crazycatdev&show_icons=true&locale=en&layout=compact" alt="crazycatdev" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
